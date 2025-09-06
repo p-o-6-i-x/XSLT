@@ -1,2 +1,1 @@
-# XSLT
-Extensible Stylesheet Language Transformations
+# Extensible Stylesheet Language Transformations
